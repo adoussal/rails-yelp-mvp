@@ -15,26 +15,31 @@ restaurants = [
     name: 'Epicure',
     address: '75008 Paris',
     category: 'french',
+    phone_number: '01 01 01 01 01'
   },
   {
     name: 'La Palette',
     address: '75005 Paris',
     category: 'french',
+    phone_number: '01 01 01 01 02'
   },
   {
     name: 'The Fat Duck',
     address: '75009 Paris',
     category: 'french',
+    phone_number: '01 01 01 01 03'
   },
   {
     name: 'Le Petit Cambodge',
     address: '75010 Paris',
-    category: 'thai',
+    category: 'japanese',
+    phone_number: '01 01 01 01 04'
   },
   {
     name: 'Il Carpaccio',
     address: '75011 Paris',
     category: 'italian',
+    phone_number: '01 01 01 01 05'
   }
 ]
 
